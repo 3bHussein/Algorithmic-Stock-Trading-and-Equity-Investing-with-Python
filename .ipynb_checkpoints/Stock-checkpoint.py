@@ -1,6 +1,6 @@
 
 print("hello")
-print
+
 
 
 
