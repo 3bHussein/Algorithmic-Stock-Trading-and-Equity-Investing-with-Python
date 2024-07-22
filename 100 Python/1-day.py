@@ -1,6 +1,14 @@
 
+# print('hello')
 
 
+# name=input('enter you name\n')
+# print("hello" +" "+ " hlloo")
+# print(name,"wow you name this ",name)
+
+# print("hello"+input("what is your name\n"))
 
 
-print('hello')
+name =input("what is your name \n")
+length=len(name) 
+print(length)
