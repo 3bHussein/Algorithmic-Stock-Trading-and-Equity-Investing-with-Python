@@ -52,3 +52,7 @@ print_x("f")
 # while something is true
 # do something Repeatedly
 
+loop=6
+while loop>0 :
+    print('hello',loop)
+    loop-=1
